@@ -1,0 +1,9 @@
+C:\Users\Ryan\Desktop\Programs\Asp.NET\Ryan-McCarty-PDQ-HCE\Ryan-McCarty-PDQ-HCE\bin\Debug\Ryan-McCarty-PDQ-HCE.exe.config
+C:\Users\Ryan\Desktop\Programs\Asp.NET\Ryan-McCarty-PDQ-HCE\Ryan-McCarty-PDQ-HCE\bin\Debug\Ryan-McCarty-PDQ-HCE.exe
+C:\Users\Ryan\Desktop\Programs\Asp.NET\Ryan-McCarty-PDQ-HCE\Ryan-McCarty-PDQ-HCE\bin\Debug\Ryan-McCarty-PDQ-HCE.pdb
+C:\Users\Ryan\Desktop\Programs\Asp.NET\Ryan-McCarty-PDQ-HCE\Ryan-McCarty-PDQ-HCE\obj\Debug\Ryan-McCarty-PDQ-HCE.csprojResolveAssemblyReference.cache
+C:\Users\Ryan\Desktop\Programs\Asp.NET\Ryan-McCarty-PDQ-HCE\Ryan-McCarty-PDQ-HCE\obj\Debug\Ryan-McCarty-PDQ-HCE.exe
+C:\Users\Ryan\Desktop\Programs\Asp.NET\Ryan-McCarty-PDQ-HCE\Ryan-McCarty-PDQ-HCE\obj\Debug\Ryan-McCarty-PDQ-HCE.pdb
+C:\Users\Ryan\Source\Repos\FileWatcher\Ryan-McCarty-PDQ-HCE\Ryan-McCarty-PDQ-HCE\bin\Debug\Ryan-McCarty-PDQ-HCE.exe.config
+C:\Users\Ryan\Source\Repos\FileWatcher\Ryan-McCarty-PDQ-HCE\Ryan-McCarty-PDQ-HCE\obj\Debug\Ryan-McCarty-PDQ-HCE.exe
+C:\Users\Ryan\Source\Repos\FileWatcher\Ryan-McCarty-PDQ-HCE\Ryan-McCarty-PDQ-HCE\obj\Debug\Ryan-McCarty-PDQ-HCE.pdb
